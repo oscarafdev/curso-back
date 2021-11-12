@@ -1,0 +1,11 @@
+Assignature: {
+  id,
+  name,
+  description,
+}
+Inscription: {
+  id,
+  user_id,
+  assignature_id,
+  date
+}
